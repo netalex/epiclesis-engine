@@ -1,0 +1,16 @@
+id: deity:ermes@1.0.0
+status: canon
+name: Ermes
+domains:
+- passaggio
+- scambio
+- mediazione
+epicleses:
+- epiclesis:ermes-kerykeios@1.0.0
+summary: Dio del passaggio sicuro, dello scambio e della mediazione.
+policies:
+- Pane e sale tra nemici → neutralità finché dura il patto.
+anchors:
+- vie mercantili
+- pietre miliari
+- mercati

@@ -1,0 +1,18 @@
+id: ritual:eta-metalli-citta-fondazione-officina@1.0.0
+status: proposal
+target_epiclesis: epiclesis:athena-polias@1.0.0
+goal: Fondare technē senza hybris
+anchorage: officina pubblica
+offer: olio e lana
+vow: uso misurato degli strumenti
+expected_IE: 6
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- Conservazione della competenza
+- Nessuna violazione di Anánkē
+era: eta-metalli-citta (-3000–-1200)
+artifacts_suggested:
+- artifact:aigis@1.0.0
+- artifact:martello-sigillo@1.0.0

@@ -1,0 +1,10 @@
+id: artifact:tripode-delfico@1.0.0
+status: canon
+name: Tripode Delfico
+patron: deity:apollo@1.0.0
+verb: oracolare
+price: Confessione e silenzio prima del responso
+limiters:
+- santuario
+- processo oracolare
+counter_signature: null

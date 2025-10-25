@@ -1,0 +1,15 @@
+id: epiclesis:apollo-paian@1.0.0
+status: canon
+deity: deity:apollo@1.0.0
+title: Paian
+competence:
+- guarigioni
+- purificazioni
+ritual_best_practices:
+- canto paeonico
+- abluzioni
+- confessione pubblica
+offers:
+- alloro
+- acqua sorgiva
+- coro in misura

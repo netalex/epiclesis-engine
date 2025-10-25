@@ -1,0 +1,19 @@
+id: ritual:antropocene-patto-costiero@1.0.0
+status: proposal
+target_epiclesis: epiclesis:poseidone-asphaleios@1.0.0
+goal: Riassegnare confini costieri in modo giusto
+anchorage: promontorio
+offer: metallo piegato
+vow: rispetto confini
+expected_IE: 8
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- Conservazione della competenza
+- Nessuna violazione di Anánkē
+era: antropocene (2010–2024)
+artifacts_suggested:
+- artifact:tridente-simbolico@1.0.0
+relations:
+- location: locations/antropocene-santuario-locale@1.0.0.yaml

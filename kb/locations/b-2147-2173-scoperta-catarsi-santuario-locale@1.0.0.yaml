@@ -1,0 +1,10 @@
+id: location:b-2147-2173-scoperta-catarsi-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (b-2147-2173-scoperta-catarsi (2147–2173))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: b-2147-2173-scoperta-catarsi (2147–2173)
+map: locations/maps/b-2147-2173-scoperta-catarsi.png

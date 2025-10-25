@@ -1,0 +1,15 @@
+id: epiclesis:athena-polias@1.0.0
+status: canon
+deity: deity:athena@1.0.0
+title: Polias
+competence:
+- istituzioni
+- leggi
+- fondazioni
+ritual_best_practices:
+- Delibera pubblica + olio e lana non tinta
+- Calendario cittadino in festa
+offers:
+- olio
+- lana
+- voto dei magistrati

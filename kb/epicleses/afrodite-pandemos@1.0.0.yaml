@@ -1,0 +1,16 @@
+id: epiclesis:afrodite-pandemos@1.0.0
+status: canon
+deity: deity:afrodite@1.0.0
+title: Pandemos
+competence:
+- coesione sociale
+- feste civiche
+- riconciliamenti affettivi
+ritual_best_practices:
+- banchetto comune
+- scambio di doni
+- verità sul passato
+offers:
+- corone
+- dolci al miele
+- velo leggero

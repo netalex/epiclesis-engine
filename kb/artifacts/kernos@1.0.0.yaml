@@ -1,0 +1,10 @@
+id: artifact:kernos@1.0.0
+status: canon
+name: Kernos
+patron: deity:demetra@1.0.0
+verb: ricordare ritorno
+price: Redistribuzione reale
+limiters:
+- campo
+- granaio
+counter_signature: null

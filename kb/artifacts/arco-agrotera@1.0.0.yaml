@@ -1,0 +1,9 @@
+id: artifact:arco-agrotera@1.0.0
+status: canon
+name: Arco Agrotera
+patron: deity:artemide@1.0.0
+verb: misurare preda
+price: Quota e astinenze
+limiters:
+- limite bosco
+counter_signature: null

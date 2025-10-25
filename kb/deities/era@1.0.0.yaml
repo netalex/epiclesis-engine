@@ -1,0 +1,16 @@
+id: deity:era@1.0.0
+status: canon
+name: Era
+domains:
+- patti
+- forma
+- famiglia
+epicleses:
+- epiclesis:era-teleia@1.0.0
+summary: Dea della forma dei patti, del matrimonio e della legittimità pubblica.
+policies:
+- Epiclesi errata → annulla rito ma salva la comunità dal miasma se invocata per forma.
+anchors:
+- case
+- aule
+- santuari nuziali

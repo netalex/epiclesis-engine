@@ -1,0 +1,16 @@
+{
+  "id": "domain:fertilita@1.0.0",
+  "status": "canon",
+  "name": "Fertilità",
+  "summary": "Crescita, semina, generazione, nutrimento.",
+  "keywords": [
+    "fertilita",
+    "fertilità"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

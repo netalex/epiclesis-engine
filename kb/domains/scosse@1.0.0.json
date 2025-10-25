@@ -1,0 +1,16 @@
+{
+  "id": "domain:scosse@1.0.0",
+  "status": "canon",
+  "name": "Scosse",
+  "summary": "Rilascio di energie accumulate (sismi/onde/eventi).",
+  "keywords": [
+    "scosse",
+    "scosse"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

@@ -1,0 +1,9 @@
+id: monster:medioevo-globale-ponte-bandito@1.0.0
+status: proposal
+class: guardian
+lesson: 'Ponte senza guardiano: predoni e dazi ingiusti.'
+treatment:
+- Riassegnare guardiano (Ermes)
+- Regola sui pedaggi
+summary: Manifestazione/guardiano tipico di medioevo-globale (600–1400).
+era: medioevo-globale (600–1400)

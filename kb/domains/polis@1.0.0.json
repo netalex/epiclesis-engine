@@ -1,0 +1,17 @@
+{
+  "id": "domain:polis@1.0.0",
+  "status": "canon",
+  "name": "Città/Polis",
+  "summary": "Spazio civico, istituzioni, leggi e fondazioni.",
+  "keywords": [
+    "polis",
+    "città",
+    "polis"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

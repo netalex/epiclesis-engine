@@ -1,0 +1,16 @@
+id: ritual:purificazione-paian@1.0.0
+status: canon
+target_epiclesis: epiclesis:apollo-paian@1.0.0
+goal: Ridurre M nelle persone/comunità riconciliate
+anchorage: fonte o santuario con acque correnti
+offer: alloro e acqua in processione
+vow: astensione temporanea da usi che generano miasma
+expected_IE: 7
+tm_effect:
+  delta_T: 1
+  delta_M: -2
+constraints:
+- Confessione/riconoscimento colpa
+- Nessuna violazione di Anánkē
+artifacts_suggested:
+- artifact:tripode-delfico@1.0.0

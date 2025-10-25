@@ -1,0 +1,15 @@
+id: character:porto-conteso-archon-politeu@1.0.0
+status: proposal
+name: Archon Politeu
+lineage:
+- famiglia di notabili
+patrons:
+- deity:athena@1.0.0
+- deity:zeus@1.0.0
+vocations:
+- magistrato
+- oratore
+tm_profile:
+  T: 4
+  M: 1
+summary: Magistrato garante dei sigilli civici; abile nel tessere patti.

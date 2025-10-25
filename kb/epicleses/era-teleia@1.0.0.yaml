@@ -1,0 +1,15 @@
+id: epiclesis:era-teleia@1.0.0
+status: canon
+deity: deity:era@1.0.0
+title: Teleia
+competence:
+- matrimonio
+- patti
+ritual_best_practices:
+- testimoni pubblici
+- scambio di pegni
+- banchetto giusto
+offers:
+- velo
+- anelli
+- olio profumato

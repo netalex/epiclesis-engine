@@ -1,0 +1,19 @@
+{
+  "coerenza_competenza": {
+    "weight": 3,
+    "fail_if": "epiclesi errata"
+  },
+  "rispetto_fisica": {
+    "weight": 3,
+    "fail_if": "miracoli anti-Anánkē"
+  },
+  "gestione_TM": {
+    "weight": 2
+  },
+  "uso_lex_stygia": {
+    "weight": 1
+  },
+  "chiarezza_oracoli": {
+    "weight": 1
+  }
+}

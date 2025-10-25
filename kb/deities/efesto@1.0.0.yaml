@@ -1,0 +1,16 @@
+id: deity:efesto@1.0.0
+status: canon
+name: Efesto
+domains:
+- forgia
+- technē
+- artefatto
+epicleses:
+- epiclesis:efesto-chalkeus@1.0.0
+summary: 'Dio della forgiatura: trasforma materia ed energia in strumenti giusti.'
+policies:
+- Artefatto senza firma aumenta M; con firma e prezzo, aumenta T.
+anchors:
+- officine
+- fucine
+- laboratori

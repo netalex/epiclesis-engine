@@ -1,0 +1,19 @@
+id: ritual:neolitico-semina-rituale@1.0.0
+status: proposal
+target_epiclesis: epiclesis:demetra-chloe@1.0.0
+goal: Benedire i semi e fissare rotazioni
+anchorage: campo comune
+offer: semi e acqua
+vow: rotazioni e redistribuzione
+expected_IE: 6
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- Conservazione della competenza
+- Nessuna violazione di Anánkē
+era: neolitico (-9000–-3500)
+artifacts_suggested:
+- artifact:kernos@1.0.0
+relations:
+- location: locations/neolitico-santuario-locale@1.0.0.yaml

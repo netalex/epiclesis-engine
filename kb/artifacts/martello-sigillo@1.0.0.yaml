@@ -1,0 +1,9 @@
+id: artifact:martello-sigillo@1.0.0
+status: canon
+name: Martello Sigillo
+patron: deity:efesto@1.0.0
+verb: sigillare
+price: Prova e manutenzione
+limiters:
+- officina
+counter_signature: deity:athena@1.0.0

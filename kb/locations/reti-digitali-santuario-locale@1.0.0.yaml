@@ -1,0 +1,10 @@
+id: location:reti-digitali-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (reti-digitali (1991–2010))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: reti-digitali (1991–2010)
+map: locations/maps/reti-digitali.png

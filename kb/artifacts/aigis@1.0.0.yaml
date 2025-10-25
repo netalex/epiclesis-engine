@@ -1,0 +1,10 @@
+id: artifact:aigis@1.0.0
+status: canon
+name: Aígīs
+patron: deity:athena@1.0.0
+verb: sigillare
+price: Proteggere solo ciò che è in regola (Nomos)
+limiters:
+- spazio civico
+- atti pubblici
+counter_signature: deity:zeus@1.0.0

@@ -1,0 +1,10 @@
+id: location:eta-assiale-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (eta-assiale (-800–-200))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: eta-assiale (-800–-200)
+map: locations/maps/eta-assiale.png

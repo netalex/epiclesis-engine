@@ -1,0 +1,98 @@
+name: Golden
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      subset:
+        description: "Golden da eseguire (es: 02,04,08 o * per tutti)"
+        required: false
+        default: "02,04,08"
+      k:
+        description: "Documenti di RAG per query"
+        required: false
+        default: "8"
+      temperature:
+        description: "Creatività modello"
+        required: false
+        default: "0.7"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: golden-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  golden:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        provider: [openai, anthropic, gemini, cohere]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install deps
+        shell: bash
+        run: |
+          python -m pip install -U pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install openai anthropic google-generativeai cohere pyyaml
+          fi
+
+      - name: Run Golden for ${{ matrix.provider }}
+        env:
+          # OpenAI-compat
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE: ${{ secrets.OPENAI_BASE }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+          # Anthropic
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ secrets.ANTHROPIC_MODEL }}
+          # Gemini
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
+          # Cohere
+          COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
+          COHERE_MODEL: ${{ secrets.COHERE_MODEL }}
+        shell: bash
+        run: |
+          set -e
+          SUBSET="${{ github.event.inputs.subset || '02,04,08' }}"
+          K="${{ github.event.inputs.k || '8' }}"
+          TEMP="${{ github.event.inputs.temperature || '0.7' }}"
+          PROVIDER="${{ matrix.provider }}"
+
+          # Guard-rails: salta provider senza chiavi per evitare errori/costi
+          if [ "$PROVIDER" = "openai" ] && [ -z "$OPENAI_API_KEY" ]; then echo "Skip: OPENAI_API_KEY assente"; exit 0; fi
+          if [ "$PROVIDER" = "anthropic" ] && [ -z "$ANTHROPIC_API_KEY" ]; then echo "Skip: ANTHROPIC_API_KEY assente"; exit 0; fi
+          if [ "$PROVIDER" = "gemini" ] && [ -z "$GEMINI_API_KEY" ]; then echo "Skip: GEMINI_API_KEY assente"; exit 0; fi
+          if [ "$PROVIDER" = "cohere" ] && [ -z "$COHERE_API_KEY" ]; then echo "Skip: COHERE_API_KEY assente"; exit 0; fi
+
+          python kb/tools/golden_runner.py             --provider "$PROVIDER"             --kb kb             --k "$K"             --out kb/out/golden             --subset "$SUBSET"             --temperature "$TEMP"
+
+          make validate-yaml
+          make eval-report
+
+      - name: Upload artifacts (${{ matrix.provider }})
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: golden-${{ matrix.provider }}
+          path: |
+            kb/out/golden/${{ matrix.provider }}/
+            kb/eval/golden_results.csv
+          if-no-files-found: warn

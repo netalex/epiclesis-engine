@@ -1,0 +1,14 @@
+id: character:slug-nome@1.0.0
+status: draft
+name: Nome Cognome o epiteto
+lineage:
+- padre/madre o mito di origine
+patrons:
+- deity:athena@1.0.0
+vocations:
+- stratega
+- artigiano
+tm_profile:
+  T: 3
+  M: 1
+summary: Breve profilo del personaggio e della sua relazione con i domini.

@@ -1,0 +1,17 @@
+{
+  "id": "domain:forgia@1.0.0",
+  "status": "canon",
+  "name": "Forgia/Tecnologia",
+  "summary": "Trasformazione di materia ed energia in strumenti.",
+  "keywords": [
+    "forgia",
+    "forgia",
+    "tecnologia"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

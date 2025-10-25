@@ -1,0 +1,15 @@
+id: epiclesis:ares-enyalios@1.0.0
+status: canon
+deity: deity:ares@1.0.0
+title: Enyalios
+competence:
+- scontro regolato
+- disciplina
+- ritiro onorevole
+ritual_best_practices:
+- codice del duello
+- limite di danno
+- testimoni
+offers:
+- armi spuntate
+- olio per l'addestramento

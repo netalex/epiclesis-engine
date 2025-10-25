@@ -1,0 +1,10 @@
+id: location:neolitico-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (neolitico (-9000–-3500))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: neolitico (-9000–-3500)
+map: locations/maps/neolitico.png

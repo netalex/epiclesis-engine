@@ -1,0 +1,15 @@
+id: epiclesis:demetra-thesmophoros@1.0.0
+status: canon
+deity: deity:demetra@1.0.0
+title: Thesmophoros
+competence:
+- leggi agrarie
+- fertilità
+- ritorno
+ritual_best_practices:
+- processione femminile
+- deposizione simboli di perdita/ritorno
+offers:
+- spighe
+- dolci di sesamo
+- melagrana

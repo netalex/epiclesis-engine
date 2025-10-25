@@ -1,0 +1,30 @@
+id: concept:operatori-di-soglia@1.0.0
+status: canon
+title: Operatori di soglia (teōroi/syntechnai) — 'maghi' ritualisti
+aliases:
+- maghi
+- mage
+- teoroi
+- syntechnai
+- operatori di soglia
+summary: Individui in grado di orchestrare riti ad alta perizia entro i domini, senza
+  violare Anánkē.
+mechanics:
+  setup: Definisci Obiettivo→Dominio→Epiclesi; valuta Tīmē/Miasma.
+  ie_formula: IE = T + A + C + O + V + E − M
+  channels:
+  - artefatti firmati
+  - contratti con daimones
+  - testimoni pubblici
+  - luoghi/ancoraggi
+  limits:
+  - nessuna violazione di Anánkē
+  - competenza di epiclesi obbligatoria
+  risks:
+  - Nemesis (rimbalzo, T−, M+)
+  - Rottura di soglia (guardiano/anomalia finché non c'è catarsi)
+  - Decoerenza sociale (mancanza di verità/testimoni → IE futuri −1)
+best_practices:
+- 'Preparazione: Epiclesi corretta, ancoraggio adeguato, offerta reale, voto/giuramento,
+  emergenza pertinente'
+- Dichiara sempre il costo (firma artefatto, pegno, manutenzione)

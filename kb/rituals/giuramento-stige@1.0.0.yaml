@@ -1,0 +1,16 @@
+id: ritual:giuramento-stige@1.0.0
+status: canon
+target_epiclesis: epiclesis:zeus-horkios@1.0.0
+goal: Vincolare patti con costo reale (Lex Stygia)
+anchorage: aula/altura con acqua presente
+offer: pegno e acqua come testimone
+vow: formula di Lex Stygia
+expected_IE: 7
+tm_effect:
+  delta_T: 2
+  delta_M: -1
+constraints:
+- Applicare legge Lex Stygia
+- Sanzione automatica su spergiuro
+artifacts_suggested:
+- artifact:keraunos@1.0.0

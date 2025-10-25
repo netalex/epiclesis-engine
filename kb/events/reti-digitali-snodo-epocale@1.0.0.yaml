@@ -1,0 +1,12 @@
+id: event:reti-digitali-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: 2000
+description: 'Snodo rappresentativo: Internet, telefoni mobili, reti globali.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: reti-digitali (1991–2010)

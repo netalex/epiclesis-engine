@@ -1,0 +1,10 @@
+id: artifact:tridente-simbolico@1.0.0
+status: canon
+name: Tridente Simbolico
+patron: deity:poseidone@1.0.0
+verb: delimitare
+price: Rispetto confini marini/portuali
+limiters:
+- costa
+- porto
+counter_signature: null

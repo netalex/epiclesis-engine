@@ -1,0 +1,17 @@
+id: ritual:secolo-breve-corridoio-umanitario@1.0.0
+status: proposal
+target_epiclesis: epiclesis:ermes-enodios@1.0.0
+goal: Passaggio sicuro per civili
+anchorage: strada/centro missione
+offer: pane e sale
+vow: neutralità verificata
+expected_IE: 6
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- Conservazione della competenza
+- Nessuna violazione di Anánkē
+era: secolo-breve (1914–1991)
+artifacts_suggested:
+- artifact:herma@1.0.0

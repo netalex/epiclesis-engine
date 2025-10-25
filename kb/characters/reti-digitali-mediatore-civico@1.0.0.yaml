@@ -1,0 +1,15 @@
+id: character:reti-digitali-mediatore-civico@1.0.0
+status: proposal
+name: Mediatore Civico
+lineage: []
+patrons:
+- deity:athena@1.0.0
+- deity:ermes@1.0.0
+vocations:
+- mediatore
+- oratore
+tm_profile:
+  T: 3
+  M: 1
+summary: Figura chiave dell'era reti-digitali (1991–2010), ponte tra domini e comunità.
+era: reti-digitali (1991–2010)

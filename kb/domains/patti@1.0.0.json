@@ -1,0 +1,18 @@
+{
+  "id": "domain:patti@1.0.0",
+  "status": "canon",
+  "name": "Forma del Patto",
+  "summary": "Contratti, matrimonio, legittimità pubblica.",
+  "keywords": [
+    "patti",
+    "forma",
+    "del",
+    "patto"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

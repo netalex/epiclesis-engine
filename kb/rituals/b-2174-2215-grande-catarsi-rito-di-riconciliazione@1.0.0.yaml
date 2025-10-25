@@ -1,0 +1,17 @@
+id: ritual:b-2174-2215-grande-catarsi-rito-di-riconciliazione@1.0.0
+status: proposal
+target_epiclesis: epiclesis:era-gamelia@1.0.0
+goal: Rammendare patto sociale
+anchorage: piazza/tribunale
+offer: velo/pegni restituiti
+vow: giuramento riparativo
+expected_IE: 6
+tm_effect:
+  delta_T: 1
+  delta_M: -2
+constraints:
+- Conservazione della competenza
+- Nessuna violazione di Anánkē
+era: b-2174-2215-grande-catarsi (2174–2215)
+artifacts_suggested:
+- artifact:fascia-nuziale@1.0.0

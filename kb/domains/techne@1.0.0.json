@@ -1,0 +1,21 @@
+{
+  "id": "domain:techne@1.0.0",
+  "status": "canon",
+  "name": "Techn\u0113",
+  "summary": "Arte/ingegno e progettazione di forme utili e giuste.",
+  "keywords": [
+    "arte",
+    "ingegneria",
+    "progettazione",
+    "strumenti",
+    "strategie"
+  ],
+  "invariants": [
+    "Nessuna violazione di An\u00e1nk\u0113",
+    "Coerenza d'uso con il bene comune"
+  ],
+  "constraints": [
+    "Fuori competenza richiede costo esplicito",
+    "Evita hybris (misura)"
+  ]
+}

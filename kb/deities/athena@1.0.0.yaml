@@ -1,0 +1,19 @@
+id: deity:athena@1.0.0
+status: canon
+name: Atena
+domains:
+- techne
+- polis
+- strategia
+epicleses:
+- epiclesis:athena-polias@1.0.0
+- epiclesis:athena-nike@1.0.0
+summary: Dea della technē, della misura civica e della strategia. Fulmine come sigillo
+  di competenza quando agisce con Zeus.
+policies:
+- Se soluzione ottusa, offrire via strategica (IE>=5).
+- Pausa di ostilità in spazio civico (IE>=7).
+anchors:
+- Atene-Polias
+- scuole
+- assemblee

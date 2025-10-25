@@ -1,0 +1,15 @@
+id: epiclesis:zeus-horkios@1.0.0
+status: canon
+deity: deity:zeus@1.0.0
+title: Horkios
+competence:
+- giuramenti
+- confini supremi
+ritual_best_practices:
+- acqua come testimone
+- testimoni pubblici
+- formula di Lex Stygia
+offers:
+- acqua
+- olio
+- pegno

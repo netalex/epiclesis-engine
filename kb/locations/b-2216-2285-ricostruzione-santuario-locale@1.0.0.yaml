@@ -1,0 +1,10 @@
+id: location:b-2216-2285-ricostruzione-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (b-2216-2285-ricostruzione (2216–2285))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: b-2216-2285-ricostruzione (2216–2285)
+map: locations/maps/b-2216-2285-ricostruzione.png

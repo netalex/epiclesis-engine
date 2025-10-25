@@ -1,0 +1,12 @@
+id: event:slug-nome@1.0.0
+status: draft
+title: Titolo dell'evento
+year: 2091
+description: Descrizione concisa dell'evento e del suo impatto.
+actors:
+- character:...
+- deity:...
+- polis:...
+tm_delta:
+  dT: 1
+  dM: -1

@@ -1,0 +1,10 @@
+id: location:antropocene-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (antropocene (2010–2024))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: antropocene (2010–2024)
+map: locations/maps/antropocene.png

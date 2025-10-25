@@ -1,0 +1,16 @@
+id: epiclesis:artemide-limnatis@1.0.0
+status: proposal
+deity: deity:artemide@1.0.0
+title: Limnatis
+competence:
+- paludi
+- soglie d'acqua
+- migrazioni sicure
+ritual_best_practices:
+- posa di rami
+- pulizia sentieri
+- offerta alla fonte
+offers:
+- rami verdi
+- sale
+- olio

@@ -1,0 +1,17 @@
+id: ritual:reti-digitali-bonifica-feed@1.0.0
+status: proposal
+target_epiclesis: epiclesis:apollo-paian@1.0.0
+goal: Purificazione informativa di reti tossiche
+anchorage: piazza digitale + incontro fisico
+offer: alloro simbolico
+vow: voto trasparenza
+expected_IE: 6
+tm_effect:
+  delta_T: 1
+  delta_M: -2
+constraints:
+- Conservazione della competenza
+- Nessuna violazione di Anánkē
+era: reti-digitali (1991–2010)
+artifacts_suggested:
+- artifact:tripode-delfico@1.0.0

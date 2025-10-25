@@ -1,0 +1,16 @@
+id: ritual:mozione-del-profondo@1.0.0
+status: canon
+target_epiclesis: epiclesis:poseidone-enosichthon@1.0.0
+goal: Chiarire confini naturali contesi riducendo violenza umana
+anchorage: promontorio o porto
+offer: metallo piegato gettato in mare
+vow: rispetto del nuovo confine
+expected_IE: 8
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- 'Non crea energia: orienta traiettorie fisiche plausibili'
+- Conservazione competenza
+artifacts_suggested:
+- artifact:tridente-simbolico@1.0.0

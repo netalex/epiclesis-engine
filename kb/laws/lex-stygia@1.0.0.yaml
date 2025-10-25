@@ -1,0 +1,8 @@
+id: law:lex-stygia@1.0.0
+status: canon
+name: Lex Stygia
+rule: Il giuramento sullo Stige crea vincolo ontologico; lo spergiuro corrompe l'ichor
+  e riduce la tīmē per 9 cicli.
+tests:
+- Giuramento valido richiede acqua/stato rituale/testimoni.
+- Spergiuro -> fiacchezza (IE max 7) e T-2 locale.

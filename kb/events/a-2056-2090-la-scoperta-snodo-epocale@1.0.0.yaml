@@ -1,0 +1,13 @@
+id: event:a-2056-2090-la-scoperta-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: 2073
+description: 'Snodo rappresentativo: Esperimenti di Delfi, Libro Bianco sui campi
+  divini, convergenza empirica.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: a-2056-2090-la-scoperta (2056–2090)

@@ -1,0 +1,19 @@
+id: ritual:paleolitico-caccia-misurata@1.0.0
+status: proposal
+target_epiclesis: epiclesis:demetra-thesmophoros@1.0.0
+goal: Garantire caccia sostenibile e rispetto dei confini selvatici
+anchorage: grotta o radura
+offer: maschere/segni della preda
+vow: astensione e restituzione
+expected_IE: 5
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- Conservazione della competenza
+- Nessuna violazione di Anánkē
+era: paleolitico (-15000–-10000)
+artifacts_suggested:
+- artifact:kernos@1.0.0
+relations:
+- location: locations/paleolitico-santuario-locale@1.0.0.yaml

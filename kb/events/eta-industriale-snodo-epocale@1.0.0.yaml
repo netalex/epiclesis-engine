@@ -1,0 +1,12 @@
+id: event:eta-industriale-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: 1832
+description: 'Snodo rappresentativo: Vapore, elettricità, fabbriche, urbanizzazione.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: eta-industriale (1750–1914)

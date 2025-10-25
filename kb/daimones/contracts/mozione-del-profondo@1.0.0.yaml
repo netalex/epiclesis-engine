@@ -1,0 +1,42 @@
+id: contract:mozione-del-profondo@1.0.0
+status: proposal
+title: Mozione del Profondo (Enosichthon)
+class: guardian
+domain:
+- mare
+- confini
+epiclesis_required:
+- epiclesis:poseidone-enosichthon@1.0.0
+anchorage: faro/promontorio con vista sui bassifondi
+witnesses:
+- piloti (2)
+- pescatori (3)
+- keryx (1)
+duration: fino a tre maree piene
+price:
+- tridente simbolico firmato
+- voto di manutenzione banchine
+- chiusura temporanea di una rotta per ripopolamento
+limiters:
+- vietato manipolare fondali artificialmente
+- no priorità oltre il calendario
+obligations:
+  operator:
+  - segnalare passaggi sicuri
+  - pubblicare carta di confini
+  daimon:
+  - aumenta coerenza delle correnti entro limiti fisici
+  - spegne correnti ingannevoli
+breach_consequences:
+  minor:
+  - T−1 in porto
+  - richiede offerta aggiuntiva
+  major:
+  - tempesta locale
+  - guardiano punitivo ‘Onde Slegate’
+lex_stygia: true
+tm_effect:
+  delta_T: 2
+  delta_M: -1
+risks:
+- conflitto con Ermes se si chiudono corridoi di tregua

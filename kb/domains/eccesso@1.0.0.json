@@ -1,0 +1,17 @@
+{
+  "id": "domain:eccesso@1.0.0",
+  "status": "canon",
+  "name": "Eccesso/Estasi",
+  "summary": "Scarico rituale, estasi, rottura della rigidità.",
+  "keywords": [
+    "eccesso",
+    "eccesso",
+    "estasi"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

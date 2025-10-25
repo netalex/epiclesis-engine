@@ -1,0 +1,17 @@
+{
+  "id": "domain:selvatico@1.0.0",
+  "status": "canon",
+  "name": "Selvatico/Limite",
+  "summary": "Soglie naturali, caccia misurata, tutela del limite.",
+  "keywords": [
+    "selvatico",
+    "selvatico",
+    "limite"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

@@ -1,0 +1,15 @@
+id: character:porto-conteso-theron@1.0.0
+status: proposal
+name: Theron delle Tre Ancore
+lineage:
+- mercanti del Nord
+patrons:
+- deity:ermes@1.0.0
+- deity:afrodite@1.0.0
+vocations:
+- negoziatore
+- armatore
+tm_profile:
+  T: 3
+  M: 2
+summary: Abile ma spregiudicato; cerca di forzare tariffe e alleanze.

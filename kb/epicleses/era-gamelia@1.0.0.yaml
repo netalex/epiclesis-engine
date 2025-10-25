@@ -1,0 +1,16 @@
+id: epiclesis:era-gamelia@1.0.0
+status: canon
+deity: deity:era@1.0.0
+title: Gamelia
+competence:
+- nozze
+- famiglia
+- protezione della casa
+ritual_best_practices:
+- testimoni pubblici
+- banchetto di comunità
+- inventario reciproco dei doveri
+offers:
+- velo
+- anelli
+- olio profumato

@@ -1,0 +1,16 @@
+id: epiclesis:efesto-chalkeus@1.0.0
+status: canon
+deity: deity:efesto@1.0.0
+title: Chalkeus
+competence:
+- forgia
+- sigilli
+- manutenzione
+ritual_best_practices:
+- acqua/olio per tempra
+- registro firma
+- prove di sicurezza
+offers:
+- metallo grezzo
+- olio
+- tempo di manutenzione

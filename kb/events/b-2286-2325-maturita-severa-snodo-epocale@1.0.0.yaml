@@ -1,0 +1,13 @@
+id: event:b-2286-2325-maturita-severa-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: 2305
+description: 'Snodo rappresentativo: Teofanie rarissime, cultura anti-hybris, daimon
+  stabili.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: b-2286-2325-maturita-severa (2286–2325)

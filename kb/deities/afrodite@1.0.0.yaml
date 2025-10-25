@@ -1,0 +1,16 @@
+id: deity:afrodite@1.0.0
+status: canon
+name: Afrodite
+domains:
+- attrazione
+- legami
+- charis
+epicleses:
+- epiclesis:afrodite-pandemos@1.0.0
+summary: Dea dell'attrazione che lega persone e città (Peithō/Charis).
+policies:
+- Legami senza verità generano miasma; legami pubblici e giusti aumentano T.
+anchors:
+- piazze
+- case
+- feste pubbliche

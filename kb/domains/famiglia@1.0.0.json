@@ -1,0 +1,17 @@
+{
+  "id": "domain:famiglia@1.0.0",
+  "status": "canon",
+  "name": "Famiglia/Casa",
+  "summary": "Patrimonio affettivo e responsabilità domestiche.",
+  "keywords": [
+    "famiglia",
+    "famiglia",
+    "casa"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "domain:forma@1.0.0",
+  "status": "canon",
+  "name": "Forma del Patto",
+  "summary": "Forma legale e simbolica dei contratti.",
+  "keywords": [
+    "forma",
+    "forma",
+    "del",
+    "patto"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

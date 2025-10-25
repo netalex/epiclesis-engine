@@ -1,0 +1,18 @@
+{
+  "id": "domain:sovranita@1.0.0",
+  "status": "canon",
+  "name": "Sovranità/Confini supremi",
+  "summary": "Legittimità dei confini ultimi, priorità dei patti.",
+  "keywords": [
+    "sovranita",
+    "sovranità",
+    "confini",
+    "supremi"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

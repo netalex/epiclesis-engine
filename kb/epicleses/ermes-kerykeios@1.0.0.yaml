@@ -1,0 +1,15 @@
+id: epiclesis:ermes-kerykeios@1.0.0
+status: canon
+deity: deity:ermes@1.0.0
+title: Kerykeios
+competence:
+- messaggeria
+- tregue
+- passi sicuri
+ritual_best_practices:
+- pane e sale condivisi
+- posa del segno neutro
+offers:
+- pane
+- sale
+- rami di olivo

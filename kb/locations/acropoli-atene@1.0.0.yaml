@@ -1,0 +1,10 @@
+id: location:acropoli-atene@1.0.0
+status: canon
+name: Acropoli di Atene
+type: sanctuary
+anchors:
+- Eretteo
+- altare Polias
+tm_baseline:
+  T: 4
+  M: 1

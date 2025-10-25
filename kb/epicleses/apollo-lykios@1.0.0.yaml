@@ -1,0 +1,13 @@
+id: epiclesis:apollo-lykios@1.0.0
+status: proposal
+deity: deity:apollo@1.0.0
+title: Lykios
+competence:
+- luce
+- protezione liminare
+ritual_best_practices:
+- accensione lucerna all'alba
+- processione breve
+offers:
+- olio chiaro
+- lino

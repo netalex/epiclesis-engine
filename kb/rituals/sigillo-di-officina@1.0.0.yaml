@@ -1,0 +1,16 @@
+id: ritual:sigillo-di-officina@1.0.0
+status: canon
+target_epiclesis: epiclesis:efesto-chalkeus@1.0.0
+goal: Sigillare strumenti e responsabilità d'uso
+anchorage: officina
+offer: metallo temprato
+vow: registro firme e manutenzione
+expected_IE: 6
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- Test di sicurezza
+- Registro pubblico
+artifacts_suggested:
+- artifact:martello-sigillo@1.0.0

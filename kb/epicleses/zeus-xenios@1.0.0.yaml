@@ -1,0 +1,15 @@
+id: epiclesis:zeus-xenios@1.0.0
+status: proposal
+deity: deity:zeus@1.0.0
+title: Xenios
+competence:
+- ospitalità
+- protezione del viandante
+ritual_best_practices:
+- pane e sale in casa
+- posto al focolare
+- registro degli ospiti
+offers:
+- pane
+- sale
+- olio

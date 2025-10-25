@@ -1,0 +1,13 @@
+id: event:atto-di-atene@1.0.0
+status: proposal
+title: Atto di Atene
+year: 2091
+description: Riconoscimento scientifico della grammatica greca come mappa funzionale
+  dei campi divini.
+actors:
+- accademie
+- santuari
+- governi
+tm_delta:
+  dT: 1
+  dM: -1

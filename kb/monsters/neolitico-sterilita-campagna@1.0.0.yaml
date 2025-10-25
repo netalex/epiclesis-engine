@@ -1,0 +1,9 @@
+id: monster:neolitico-sterilita-campagna@1.0.0
+status: proposal
+class: anomaly
+lesson: Ciclo spezzato, suolo sfruttato.
+treatment:
+- 'Catarsi: riposo del campo'
+- 'Colpo tematico: compost/ritorno'
+summary: Manifestazione/guardiano tipico di neolitico (-9000–-3500).
+era: neolitico (-9000–-3500)

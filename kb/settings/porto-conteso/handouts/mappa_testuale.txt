@@ -1,0 +1,6 @@
+MAPPA TESTUALE (coordinate astratte)
+- Faro (20,22) — Altare di Poseidone
+- Corridoio Ermes (45,20→35)
+- Acropoli/Santuario (75,50)
+- Sala del Trattato (70,60)
+- Banchine: 25,40,55,70,85 (x; y=25→35)

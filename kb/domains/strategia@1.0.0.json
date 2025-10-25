@@ -1,0 +1,16 @@
+{
+  "id": "domain:strategia@1.0.0",
+  "status": "canon",
+  "name": "Strategia",
+  "summary": "Arte della scelta nei conflitti e nelle decisioni.",
+  "keywords": [
+    "strategia",
+    "strategia"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

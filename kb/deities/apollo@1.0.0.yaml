@@ -1,0 +1,18 @@
+id: deity:apollo@1.0.0
+status: canon
+name: Apollo
+domains:
+- misura
+- oracolo
+- purificazioni
+epicleses:
+- epiclesis:apollo-paian@1.0.0
+- epiclesis:apollo-lykios@1.0.0
+summary: Dio della misura, dell'oracolo e delle purificazioni (Paian).
+policies:
+- Dove M≥3, bonifica 1 M a costo T se la colpa è riconosciuta (IE≥7).
+- Oracoli con Budget di Chiarezza proporzionale a IE.
+anchors:
+- Delfi
+- linee di misura
+- acque Castalia

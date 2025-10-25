@@ -1,0 +1,10 @@
+id: location:a-2161-2230-nuova-eleusi-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (a-2161-2230-nuova-eleusi (2161–2230))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: a-2161-2230-nuova-eleusi (2161–2230)
+map: locations/maps/a-2161-2230-nuova-eleusi.png

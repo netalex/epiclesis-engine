@@ -1,0 +1,17 @@
+id: deity:demetra@1.0.0
+status: canon
+name: Demetra
+domains:
+- ciclo
+- ritorno
+- fertilità
+epicleses:
+- epiclesis:demetra-thesmophoros@1.0.0
+summary: Dea dei cicli, della perdita e del ritorno, della coltivazione e delle leggi
+  agrarie.
+policies:
+- Sospende sterilità temporaneamente se si istituisce rito di ritorno (IE≥6).
+anchors:
+- campi
+- granai
+- Eleusi

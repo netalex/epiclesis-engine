@@ -1,0 +1,10 @@
+id: location:paleolitico-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (paleolitico (-15000–-10000))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: paleolitico (-15000–-10000)
+map: locations/maps/paleolitico.png

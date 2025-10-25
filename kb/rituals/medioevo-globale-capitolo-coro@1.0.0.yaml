@@ -1,0 +1,17 @@
+id: ritual:medioevo-globale-capitolo-coro@1.0.0
+status: proposal
+target_epiclesis: epiclesis:apollo-musagete@1.0.0
+goal: Sincronizzare comunità e studio
+anchorage: chiostro/cattedrale
+offer: metro condiviso
+vow: impegni di studio e carità
+expected_IE: 6
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- Conservazione della competenza
+- Nessuna violazione di Anánkē
+era: medioevo-globale (600–1400)
+artifacts_suggested:
+- artifact:tripode-delfico@1.0.0

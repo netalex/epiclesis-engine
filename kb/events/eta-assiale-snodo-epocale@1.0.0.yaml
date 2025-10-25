@@ -1,0 +1,13 @@
+id: event:eta-assiale-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: -500
+description: 'Snodo rappresentativo: Nascita di filosofie e riforme religiose; oracoli
+  e leggi scritte.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: eta-assiale (-800–-200)

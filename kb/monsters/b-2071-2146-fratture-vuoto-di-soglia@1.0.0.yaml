@@ -1,0 +1,9 @@
+id: monster:b-2071-2146-fratture-vuoto-di-soglia@1.0.0
+status: proposal
+class: guardian
+lesson: 'Guardiano rimosso: confini porosi.'
+treatment:
+- Riassegnazione guardiano
+- Sigillo confini
+summary: Manifestazione/guardiano tipico di b-2071-2146-fratture (2071–2146).
+era: b-2071-2146-fratture (2071–2146)

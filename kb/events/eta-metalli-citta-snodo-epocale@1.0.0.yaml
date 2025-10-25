@@ -1,0 +1,13 @@
+id: event:eta-metalli-citta-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: -2100
+description: 'Snodo rappresentativo: Bronzo/Ferro, città-stato, templi e scrittura
+  nascente.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: eta-metalli-citta (-3000–-1200)

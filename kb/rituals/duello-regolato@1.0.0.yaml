@@ -1,0 +1,16 @@
+id: ritual:duello-regolato@1.0.0
+status: canon
+target_epiclesis: epiclesis:ares-enyalios@1.0.0
+goal: Scaricare conflitto impedendo escalation
+anchorage: palestra/campo segnato
+offer: armi non letali e pegno reciproco
+vow: rispettare esito e sospensione ostilità
+expected_IE: 6
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- Medico/arbitro presenti
+- Limiti espliciti
+artifacts_suggested:
+- artifact:aspis-nomia@1.0.0

@@ -1,0 +1,12 @@
+id: event:antropocene-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: 2017
+description: 'Snodo rappresentativo: Crisi climatica e biodiversità, transizione energetica.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: antropocene (2010–2024)

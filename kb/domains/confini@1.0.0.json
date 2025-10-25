@@ -1,0 +1,16 @@
+{
+  "id": "domain:confini@1.0.0",
+  "status": "canon",
+  "name": "Confini",
+  "summary": "Linee di separazione e passaggi legittimi.",
+  "keywords": [
+    "confini",
+    "confini"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

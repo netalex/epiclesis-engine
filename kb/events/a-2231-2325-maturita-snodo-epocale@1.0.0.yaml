@@ -1,0 +1,13 @@
+id: event:a-2231-2325-maturita-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: 2278
+description: 'Snodo rappresentativo: Teofanie civiche rare, pluralismo alto, omphalos
+  orbitali.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: a-2231-2325-maturita (2231–2325)

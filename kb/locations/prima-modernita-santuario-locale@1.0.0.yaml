@@ -1,0 +1,10 @@
+id: location:prima-modernita-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (prima-modernita (1450–1650))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: prima-modernita (1450–1650)
+map: locations/maps/prima-modernita.png

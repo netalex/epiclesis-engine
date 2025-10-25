@@ -1,0 +1,10 @@
+id: artifact:aspis-nomia@1.0.0
+status: canon
+name: Aspis Nomia
+patron: deity:ares@1.0.0
+verb: contenere
+price: Campo segnato, regole del colpo
+limiters:
+- palestra
+- campo
+counter_signature: null

@@ -1,0 +1,13 @@
+id: event:b-2071-2146-fratture-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: 2108
+description: 'Snodo rappresentativo: Guardiani rimossi, culti della paura, vuoti di
+  soglia.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: b-2071-2146-fratture (2071–2146)

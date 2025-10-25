@@ -1,0 +1,10 @@
+id: location:duemila-2025-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (duemila-2025 (2000–2025))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: duemila-2025 (2000–2025)
+map: locations/maps/duemila-2025.png

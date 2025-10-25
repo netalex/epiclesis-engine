@@ -1,0 +1,43 @@
+id: contract:patto-nuziale-pubblico@1.0.0
+status: proposal
+title: Patto Nuziale Pubblico (Era Teleia / Afrodite Pandemos)
+class: threshold
+domain:
+- forma
+- charis
+- polis
+epiclesis_required:
+- epiclesis:era-teleia@1.0.0
+- epiclesis:afrodite-pandemos@1.0.0
+anchorage: santuario civico con registro
+witnesses:
+- paraninfi (2)
+- magistrato (1)
+- cittadini (>=20)
+duration: un anno rituale (rinnovabile)
+price:
+- fascia nuziale firmata
+- banchetto pubblico
+- restituzione debiti minori pregressi
+limiters:
+- trasparenza patrimoni
+- tregua in festa (niente ostilità)
+obligations:
+  operator:
+  - dichiarare verità pregresse
+  - finanziare opere comuni
+  daimon:
+  - presidia coesione e fiducia
+  - ammorbidisce attriti di conflitto minore
+breach_consequences:
+  minor:
+  - carico di restituzione raddoppiato
+  - M+1 nelle due Rive
+  major:
+  - Nemesis di Era (rigidità) o di Afrodite (erosione legami) finché non c’è catarsi
+lex_stygia: true
+tm_effect:
+  delta_T: 2
+  delta_M: -1
+risks:
+- patto formale ma ingiusto (T cresce poco, M non scende)

@@ -1,0 +1,13 @@
+id: event:neolitico-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: -6250
+description: 'Snodo rappresentativo: Villaggi agricoli, calendari, culto della semina
+  e del ritorno.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: neolitico (-9000–-3500)

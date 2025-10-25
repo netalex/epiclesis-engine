@@ -1,0 +1,15 @@
+id: ritual:mietitura-ritorno@1.0.0
+status: canon
+target_epiclesis: epiclesis:demetra-thesmophoros@1.0.0
+goal: Catarsi della perdita e ricarica della comunità rurale
+anchorage: campo/trebbiatura/Eleusi locale
+offer: spighe e dolci condivisi
+vow: impegno a redistribuzione del raccolto
+expected_IE: 6
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- Redistribuzione reale, non simbolica
+artifacts_suggested:
+- artifact:kernos@1.0.0

@@ -1,0 +1,47 @@
+/mnt/data/kb_project
+.
+├── .github/
+│   └── workflows/
+│       └── golden.yml
+├── kb/
+│   ├── core/
+│   │   └── operators/
+│   │       └── operatori-di-soglia@1.0.0.yaml
+│   ├── crosstraditions/
+│   │   └── abramitici@1.0.0.yaml
+│   ├── daimones/
+│   │   └── contracts/
+│   │       ├── contract_template@1.0.0.yaml
+│   │       ├── keryx-neutrality@1.0.0.yaml
+│   │       ├── mozione-del-profondo@1.0.0.yaml
+│   │       └── patto-nuziale-pubblico@1.0.0.yaml
+│   ├── docs/
+│   │   ├── percezioni_storiche@1.0.0.md
+│   │   └── teodicea_diagnosi_rapida.md
+│   ├── eval/
+│   │   └── golden_results.csv
+│   ├── laws/
+│   │   └── teodicea-operativa@1.0.0.yaml
+│   ├── out/
+│   │   └── golden/
+│   ├── prompts/
+│   │   ├── golden/
+│   │   │   ├── 01_scene_porto_conteso.md
+│   │   │   ├── 02_rito_yaml_from_brief.md
+│   │   │   ├── 03_diagnosi_teodicea.md
+│   │   │   ├── 04_contratto_daimonico.md
+│   │   │   ├── 05_gdr_moves_pbta.md
+│   │   │   ├── 06_gdr_actions_fitd.md
+│   │   │   ├── 07_sommario_abramitico.md
+│   │   │   ├── 08_artifact_yaml.md
+│   │   │   ├── 09_guardiano_case_edge.md
+│   │   │   ├── 10_eval_checklist.md
+│   │   │   └── README.md
+│   │   ├── gdr_mapping.md
+│   │   └── system_prompt.txt
+│   └── tools/
+│       ├── eval_report.py
+│       ├── extract_yaml.py
+│       ├── golden_runner.py
+│       └── validate_yaml.py
+└── Makefile

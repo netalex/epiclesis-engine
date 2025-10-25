@@ -1,0 +1,10 @@
+id: location:a-2231-2325-maturita-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (a-2231-2325-maturita (2231–2325))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: a-2231-2325-maturita (2231–2325)
+map: locations/maps/a-2231-2325-maturita.png

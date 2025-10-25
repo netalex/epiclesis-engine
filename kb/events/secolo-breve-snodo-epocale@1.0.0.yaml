@@ -1,0 +1,13 @@
+id: event:secolo-breve-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: 1952
+description: 'Snodo rappresentativo: Guerre mondiali, Shoah, decolonizzazione, guerra
+  fredda.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: secolo-breve (1914–1991)

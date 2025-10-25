@@ -1,0 +1,13 @@
+id: event:tregua-del-porto@1.0.0
+status: proposal
+title: Tregua del Porto delle Due Rive
+year: 2112
+description: Rito congiunto di Ermes e Poseidone che istituisce corridoio neutro e
+  chiarisce i confini naturali del porto.
+actors:
+- deity:ermes@1.0.0
+- deity:poseidone@1.0.0
+- polis:Due Rive
+tm_delta:
+  dT: 2
+  dM: -2

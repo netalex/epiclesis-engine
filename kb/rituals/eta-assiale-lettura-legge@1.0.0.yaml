@@ -1,0 +1,17 @@
+id: ritual:eta-assiale-lettura-legge@1.0.0
+status: proposal
+target_epiclesis: epiclesis:apollo-paian@1.0.0
+goal: Stabilire legge pubblica con canto e misura
+anchorage: agorà/tempio
+offer: alloro, acqua
+vow: fedeltà alla legge
+expected_IE: 6
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- Conservazione della competenza
+- Nessuna violazione di Anánkē
+era: eta-assiale (-800–-200)
+artifacts_suggested:
+- artifact:tripode-delfico@1.0.0

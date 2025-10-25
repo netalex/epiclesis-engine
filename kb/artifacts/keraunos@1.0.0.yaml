@@ -1,0 +1,10 @@
+id: artifact:keraunos@1.0.0
+status: canon
+name: Keraunos
+patron: deity:zeus@1.0.0
+verb: sigillare confine
+price: Legittimità dichiarata
+limiters:
+- alture
+- aule
+counter_signature: deity:athena@1.0.0

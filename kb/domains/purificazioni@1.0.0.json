@@ -1,0 +1,16 @@
+{
+  "id": "domain:purificazioni@1.0.0",
+  "status": "canon",
+  "name": "Purificazioni",
+  "summary": "Bonifica di miasma personale e collettivo.",
+  "keywords": [
+    "purificazioni",
+    "purificazioni"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

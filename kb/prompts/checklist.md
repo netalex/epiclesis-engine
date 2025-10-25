@@ -1,0 +1,6 @@
+- [ ] **Competenza**: l'epiclesi chiamata è corretta?
+- [ ] **IE** calcolato e soglia scelta coerente?
+- [ ] **Prezzo** pagato per artefatti/epifanie?
+- [ ] **Miasma** generato/ridotto esplicitato?
+- [ ] **Oracolo**: condizioni/finestre, mai il “se”.
+- [ ] **Fisica**: nessuna violazione (niente FTL, niente energia dal nulla).

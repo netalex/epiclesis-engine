@@ -1,0 +1,16 @@
+id: ritual:festa-di-charis@1.0.0
+status: canon
+target_epiclesis: epiclesis:afrodite-pandemos@1.0.0
+goal: Rafforzare coesione e fiducia reciproca
+anchorage: piazza/casa comune
+offer: banchetto e scambio doni
+vow: promessa di cura reciproca
+expected_IE: 6
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- Inclusività reale
+- Rettifica pubblica di torti minori
+artifacts_suggested:
+- artifact:cintura-charis@1.0.0

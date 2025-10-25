@@ -1,0 +1,16 @@
+{
+  "id": "domain:ciclo@1.0.0",
+  "status": "canon",
+  "name": "Ciclo/Ritorno",
+  "summary": "Stagioni, perdita e ritorno, agricoltura.",
+  "keywords": [
+    "ciclo",
+    "ciclo/ritorno"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

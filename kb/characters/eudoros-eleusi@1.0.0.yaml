@@ -1,0 +1,16 @@
+id: character:eudoros-eleusi@1.0.0
+status: proposal
+name: Eudoros di Eleusi
+lineage:
+- 'madre: agricoltrice iniziata a Demetra'
+- 'padre: scriba cittadino'
+patrons:
+- deity:demetra@1.0.0
+- deity:athena@1.0.0
+vocations:
+- legislatore agrario
+- mediator civico
+tm_profile:
+  T: 4
+  M: 1
+summary: Legislatore che integra riti di ritorno (Demetra) con misure civiche (Atena).

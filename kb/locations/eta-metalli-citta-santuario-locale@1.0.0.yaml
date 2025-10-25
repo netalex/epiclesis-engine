@@ -1,0 +1,10 @@
+id: location:eta-metalli-citta-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (eta-metalli-citta (-3000–-1200))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: eta-metalli-citta (-3000–-1200)
+map: locations/maps/eta-metalli-citta.png

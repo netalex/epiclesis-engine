@@ -1,0 +1,16 @@
+{
+  "id": "domain:scambio@1.0.0",
+  "status": "canon",
+  "name": "Scambio",
+  "summary": "Commercio, dono, equivalenza, diplomazia economica.",
+  "keywords": [
+    "scambio",
+    "scambio"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

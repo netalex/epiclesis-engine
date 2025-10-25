@@ -1,0 +1,15 @@
+id: ritual:trattato-del-messaggero@1.0.0
+status: canon
+target_epiclesis: epiclesis:ermes-kerykeios@1.0.0
+goal: Creare un corridoio di neutralità e dialogo
+anchorage: pietra di confine o mercato
+offer: pane e sale condivisi dai capi
+vow: sospensione delle ostilità nel perimetro
+expected_IE: 6
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- Patto visibile a tutti; violarlo crea miasma immediato
+artifacts_suggested:
+- artifact:herma@1.0.0

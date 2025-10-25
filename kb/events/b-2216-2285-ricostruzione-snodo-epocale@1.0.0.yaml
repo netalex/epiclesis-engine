@@ -1,0 +1,13 @@
+id: event:b-2216-2285-ricostruzione-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: 2250
+description: 'Snodo rappresentativo: Ricostruzione sobria, santuari-funzione, anti-sincretismo
+  superficiale.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: b-2216-2285-ricostruzione (2216–2285)

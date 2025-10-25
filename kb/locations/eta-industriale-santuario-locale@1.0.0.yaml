@@ -1,0 +1,10 @@
+id: location:eta-industriale-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (eta-industriale (1750–1914))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: eta-industriale (1750–1914)
+map: locations/maps/eta-industriale.png

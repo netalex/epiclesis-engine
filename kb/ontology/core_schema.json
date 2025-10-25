@@ -1,0 +1,444 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "core_schema.json",
+  "title": "Mythic-Scientific Lore Ontology",
+  "type": "object",
+  "$defs": {
+    "ID": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+(:[a-z0-9-]+)*@[0-9]+\\.[0-9]+\\.[0-9]+$"
+    },
+    "Status": {
+      "enum": [
+        "draft",
+        "proposal",
+        "canon",
+        "deprecated"
+      ]
+    },
+    "RangeTM": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 6
+    },
+    "RangeM": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "Domain": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "keywords",
+        "invariants"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/ID"
+        },
+        "version": {
+          "type": "string"
+        },
+        "status": {
+          "$ref": "#/$defs/Status"
+        },
+        "name": {
+          "type": "string"
+        },
+        "summary": {
+          "type": "string"
+        },
+        "keywords": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "invariants": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "constraints": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "Deity": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "domains",
+        "policies"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/ID"
+        },
+        "status": {
+          "$ref": "#/$defs/Status"
+        },
+        "name": {
+          "type": "string"
+        },
+        "domains": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "summary": {
+          "type": "string"
+        },
+        "epicleses": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "policies": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "anchors": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "Epiclesis": {
+      "type": "object",
+      "required": [
+        "id",
+        "deity",
+        "title",
+        "competence"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/ID"
+        },
+        "status": {
+          "$ref": "#/$defs/Status"
+        },
+        "deity": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "competence": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "ritual_best_practices": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "offers": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "Ritual": {
+      "type": "object",
+      "required": [
+        "id",
+        "target_epiclesis",
+        "goal"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/ID"
+        },
+        "status": {
+          "$ref": "#/$defs/Status"
+        },
+        "target_epiclesis": {
+          "type": "string"
+        },
+        "goal": {
+          "type": "string"
+        },
+        "anchorage": {
+          "type": "string"
+        },
+        "offer": {
+          "type": "string"
+        },
+        "vow": {
+          "type": "string"
+        },
+        "expected_IE": {
+          "type": "integer"
+        },
+        "tm_effect": {
+          "type": "object",
+          "properties": {
+            "delta_T": {
+              "type": "integer"
+            },
+            "delta_M": {
+              "type": "integer"
+            }
+          }
+        },
+        "constraints": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "Artifact": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "patron",
+        "verb"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/ID"
+        },
+        "status": {
+          "$ref": "#/$defs/Status"
+        },
+        "name": {
+          "type": "string"
+        },
+        "patron": {
+          "type": "string"
+        },
+        "verb": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "limiters": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "counter_signature": {
+          "type": "string"
+        }
+      }
+    },
+    "Law": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "rule"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/ID"
+        },
+        "status": {
+          "$ref": "#/$defs/Status"
+        },
+        "name": {
+          "type": "string"
+        },
+        "rule": {
+          "type": "string"
+        },
+        "tests": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "Location": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "type"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/ID"
+        },
+        "status": {
+          "$ref": "#/$defs/Status"
+        },
+        "name": {
+          "type": "string"
+        },
+        "type": {
+          "enum": [
+            "sanctuary",
+            "polis",
+            "region",
+            "omphalos"
+          ]
+        },
+        "anchors": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "tm_baseline": {
+          "type": "object",
+          "properties": {
+            "T": {
+              "$ref": "#/$defs/RangeTM"
+            },
+            "M": {
+              "$ref": "#/$defs/RangeM"
+            }
+          }
+        }
+      }
+    },
+    "Monster": {
+      "type": "object",
+      "required": [
+        "id",
+        "class",
+        "lesson"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/ID"
+        },
+        "status": {
+          "$ref": "#/$defs/Status"
+        },
+        "class": {
+          "enum": [
+            "guardian",
+            "anomaly",
+            "punitive"
+          ]
+        },
+        "lesson": {
+          "type": "string"
+        },
+        "treatment": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "Character": {
+      "type": "object",
+      "required": [
+        "id",
+        "name"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/ID"
+        },
+        "status": {
+          "$ref": "#/$defs/Status"
+        },
+        "name": {
+          "type": "string"
+        },
+        "lineage": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "patrons": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "vocations": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "tm_profile": {
+          "type": "object",
+          "properties": {
+            "T": {
+              "$ref": "#/$defs/RangeTM"
+            },
+            "M": {
+              "$ref": "#/$defs/RangeM"
+            }
+          }
+        }
+      }
+    },
+    "Event": {
+      "type": "object",
+      "required": [
+        "id",
+        "title",
+        "year"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/ID"
+        },
+        "status": {
+          "$ref": "#/$defs/Status"
+        },
+        "title": {
+          "type": "string"
+        },
+        "year": {
+          "type": "integer"
+        },
+        "description": {
+          "type": "string"
+        },
+        "actors": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "tm_delta": {
+          "type": "object",
+          "properties": {
+            "dT": {
+              "type": "integer"
+            },
+            "dM": {
+              "type": "integer"
+            }
+          }
+        }
+      }
+    }
+  }
+}

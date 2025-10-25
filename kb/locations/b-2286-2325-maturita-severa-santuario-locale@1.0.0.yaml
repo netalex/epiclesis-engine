@@ -1,0 +1,10 @@
+id: location:b-2286-2325-maturita-severa-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (b-2286-2325-maturita-severa (2286–2325))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: b-2286-2325-maturita-severa (2286–2325)
+map: locations/maps/b-2286-2325-maturita-severa.png

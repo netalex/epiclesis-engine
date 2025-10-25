@@ -1,0 +1,17 @@
+id: ritual:duemila-2025-veglia-di-riparazione@1.0.0
+status: proposal
+target_epiclesis: epiclesis:apollo-paian@1.0.0
+goal: Catarsi pubblica post-trauma
+anchorage: piazza cittadina
+offer: acqua e candele
+vow: impegni concreti
+expected_IE: 6
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- Conservazione della competenza
+- Nessuna violazione di Anánkē
+era: duemila-2025 (2000–2025)
+artifacts_suggested:
+- artifact:tripode-delfico@1.0.0

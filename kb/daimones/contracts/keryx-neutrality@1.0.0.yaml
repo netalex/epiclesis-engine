@@ -1,0 +1,44 @@
+id: contract:keryx-neutrality@1.0.0
+status: proposal
+title: Neutralità di Corridoio (Keryx)
+class: threshold
+domain:
+- passaggio
+- polis
+epiclesis_required:
+- epiclesis:ermes-kerykeios@1.0.0
+- epiclesis:zeus-horkios@1.0.0
+anchorage: corridoio segnato da hermai
+witnesses:
+- kerykes (2)
+- magistrato (1)
+- cittadini (>=10)
+duration: alba→tramonto (rinnovabile)
+price:
+- herma firmata con registro pubblico
+- manutenzione segnaletica
+- pegno dei capitani
+limiters:
+- vietato sangue su pietra
+- transazioni registrate
+obligations:
+  operator:
+  - pubblicazione condizioni sul luogo
+  - custodia della lista dei transitanti
+  daimon:
+  - impone ‘frizione sociale’ a chi tenta violazioni
+  - favorisce passaggi veritieri
+breach_consequences:
+  minor:
+  - M+1 locale
+  - costo doppio per rinnovo
+  major:
+  - ‘Vuoto di Soglia’ finché non avviene catarsi
+  - ban civico per mese rituale
+lex_stygia: true
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+risks:
+- strumentalizzazione politica
+- conflitto con Poseidone se sporge in area portuale

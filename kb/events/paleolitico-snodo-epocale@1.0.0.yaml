@@ -1,0 +1,13 @@
+id: event:paleolitico-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: -12500
+description: 'Snodo rappresentativo: Clan di cacciatori-raccoglitori, pitture rupestri,
+  trance sciamaniche.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: paleolitico (-15000–-10000)

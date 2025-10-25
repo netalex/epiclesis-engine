@@ -1,0 +1,18 @@
+id: ritual:prima-modernita-patto-di-stampa@1.0.0
+status: proposal
+target_epiclesis: epiclesis:athena-nike@1.0.0
+goal: Stampa come logokleide pubblico (verità e responsabilità)
+anchorage: tipografia
+offer: olio su torchio
+vow: regola d'uso e rettifica
+expected_IE: 6
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- Conservazione della competenza
+- Nessuna violazione di Anánkē
+era: prima-modernita (1450–1650)
+artifacts_suggested:
+- artifact:aigis@1.0.0
+- artifact:martello-sigillo@1.0.0

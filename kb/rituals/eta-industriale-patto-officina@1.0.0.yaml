@@ -1,0 +1,17 @@
+id: ritual:eta-industriale-patto-officina@1.0.0
+status: proposal
+target_epiclesis: epiclesis:era-teleia@1.0.0
+goal: Accordo tra capitale e lavoro (forma e misura)
+anchorage: fabbrica
+offer: pane condiviso
+vow: giuramento di sicurezza
+expected_IE: 6
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- Conservazione della competenza
+- Nessuna violazione di Anánkē
+era: eta-industriale (1750–1914)
+artifacts_suggested:
+- artifact:fascia-nuziale@1.0.0

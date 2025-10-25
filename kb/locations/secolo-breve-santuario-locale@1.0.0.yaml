@@ -1,0 +1,10 @@
+id: location:secolo-breve-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (secolo-breve (1914–1991))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: secolo-breve (1914–1991)
+map: locations/maps/secolo-breve.png

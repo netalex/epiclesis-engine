@@ -1,0 +1,17 @@
+id: deity:zeus@1.0.0
+status: canon
+name: Zeus
+domains:
+- sovranita
+- confini
+- fulmine
+epicleses:
+- epiclesis:zeus-horkios@1.0.0
+- epiclesis:zeus-xenios@1.0.0
+summary: 'Dio della legittimità dei confini ultimi: giuramenti e ospitalità.'
+policies:
+- 'Spergiuro: T−2 locale per 9 cicli; Ospitalità violata: Nemesis civica.'
+anchors:
+- alture
+- aule giudiziarie
+- case ospitali

@@ -1,0 +1,17 @@
+id: ritual:sigillo-sobrio@1.0.0
+status: canon
+target_epiclesis: epiclesis:athena-polias@1.0.0
+goal: Stabilire un confine legale non violento
+anchorage: acropoli in festa
+offer: olio chiaro e lana
+vow: voto dei magistrati
+expected_IE: 10
+tm_effect:
+  delta_T: 2
+  delta_M: -2
+constraints:
+- Conservazione della competenza
+- Nessuna violazione di Anánkē
+artifacts_suggested:
+- artifact:aigis@1.0.0
+- artifact:martello-sigillo@1.0.0

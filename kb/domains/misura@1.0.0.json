@@ -1,0 +1,16 @@
+{
+  "id": "domain:misura@1.0.0",
+  "status": "canon",
+  "name": "Misura",
+  "summary": "Misura, proporzione, verità misurabile.",
+  "keywords": [
+    "misura",
+    "misura"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

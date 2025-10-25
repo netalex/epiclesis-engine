@@ -1,0 +1,17 @@
+{
+  "id": "domain:attrazione@1.0.0",
+  "status": "canon",
+  "name": "Attrazione/Legame",
+  "summary": "Peithō, eros, relazioni e legami sociali.",
+  "keywords": [
+    "attrazione",
+    "attrazione",
+    "legame"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

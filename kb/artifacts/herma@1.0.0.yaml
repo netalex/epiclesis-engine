@@ -1,0 +1,10 @@
+id: artifact:herma@1.0.0
+status: canon
+name: Herma
+patron: deity:ermes@1.0.0
+verb: segnare soglia
+price: Neutralità del passaggio
+limiters:
+- strada
+- mercato
+counter_signature: null

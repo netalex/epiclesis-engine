@@ -1,0 +1,12 @@
+id: event:prima-modernita-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: 1550
+description: 'Snodo rappresentativo: Stampa, Riforma/Controriforma, stati sovrani.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: prima-modernita (1450–1650)

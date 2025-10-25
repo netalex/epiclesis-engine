@@ -1,0 +1,16 @@
+id: character:a-2091-riconoscimento-mediatore-civico@1.0.0
+status: proposal
+name: Mediatore Civico
+lineage: []
+patrons:
+- deity:athena@1.0.0
+- deity:ermes@1.0.0
+vocations:
+- mediatore
+- oratore
+tm_profile:
+  T: 3
+  M: 1
+summary: Figura chiave dell'era a-2091-riconoscimento (2091–2091), ponte tra domini
+  e comunità.
+era: a-2091-riconoscimento (2091–2091)

@@ -1,0 +1,15 @@
+id: epiclesis:artemide-agrotera@1.0.0
+status: canon
+deity: deity:artemide@1.0.0
+title: Agrotera
+competence:
+- caccia misurata
+- tutela del selvatico
+ritual_best_practices:
+- astinenze pre‑caccia
+- restituzione della prima preda
+- segni di rispetto al confine
+offers:
+- carni selezionate
+- nastri non tinti
+- acqua sorgiva

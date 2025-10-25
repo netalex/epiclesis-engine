@@ -1,0 +1,18 @@
+id: ritual:a-2025-2055-seminare-coerenza-rito-di-verita@1.0.0
+status: proposal
+target_epiclesis: epiclesis:athena-polias@1.0.0
+goal: Stabilire standard di trasparenza
+anchorage: agorà/aula
+offer: olio e lana
+vow: firma pubblica
+expected_IE: 7
+tm_effect:
+  delta_T: 1
+  delta_M: -2
+constraints:
+- Conservazione della competenza
+- Nessuna violazione di Anánkē
+era: a-2025-2055-seminare-coerenza (2025–2055)
+artifacts_suggested:
+- artifact:aigis@1.0.0
+- artifact:martello-sigillo@1.0.0

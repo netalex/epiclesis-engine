@@ -1,0 +1,13 @@
+id: event:b-2174-2215-grande-catarsi-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: 2194
+description: 'Snodo rappresentativo: Tribunali di Era, riassegnazione dei guardiani,
+  Lex Stygia planetaria.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: b-2174-2215-grande-catarsi (2174–2215)

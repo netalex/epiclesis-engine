@@ -1,0 +1,17 @@
+id: ritual:classico-tardoantico-tregua-thing@1.0.0
+status: proposal
+target_epiclesis: epiclesis:ermes-kerykeios@1.0.0
+goal: Aprire corridoio neutro per scambio e diplomazia
+anchorage: mercato/porto
+offer: pane e sale
+vow: neutralità verificabile
+expected_IE: 6
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- Conservazione della competenza
+- Nessuna violazione di Anánkē
+era: classico-tardoantico (-500–600)
+artifacts_suggested:
+- artifact:herma@1.0.0

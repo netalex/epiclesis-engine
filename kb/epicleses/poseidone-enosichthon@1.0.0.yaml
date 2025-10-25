@@ -1,0 +1,14 @@
+id: epiclesis:poseidone-enosichthon@1.0.0
+status: canon
+deity: deity:poseidone@1.0.0
+title: Enosichthon
+competence:
+- terremoti
+- confini marini
+ritual_best_practices:
+- offerta di metallo piegato al mare
+- voto di rispetto confini
+offers:
+- metallo piegato
+- sale
+- conchiglie

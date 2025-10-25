@@ -1,0 +1,16 @@
+id: ritual:patto-nuziale@1.0.0
+status: canon
+target_epiclesis: epiclesis:era-teleia@1.0.0
+goal: Stabilire un matrimonio/patto legittimo che protegga la casa
+anchorage: santuario o casa in assemblea
+offer: velo e pegni reciproci
+vow: giuramento dei coniugi e testimoni
+expected_IE: 6
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- Impegni reali (costi) e forma pubblica
+- Lex Stygia consigliata
+artifacts_suggested:
+- artifact:fascia-nuziale@1.0.0

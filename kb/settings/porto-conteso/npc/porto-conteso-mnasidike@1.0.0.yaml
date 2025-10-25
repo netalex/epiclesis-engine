@@ -1,0 +1,14 @@
+id: character:porto-conteso-mnasidike@1.0.0
+status: proposal
+name: Mnasidike la Keryx
+lineage:
+- collegio dei kerykes
+patrons:
+- deity:ermes@1.0.0
+vocations:
+- messaggera
+- mediatrice
+tm_profile:
+  T: 5
+  M: 1
+summary: Portatrice di sigilli; difende la neutralità del corridoio.

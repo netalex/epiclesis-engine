@@ -1,0 +1,10 @@
+id: location:a-2091-2160-integrazione-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (a-2091-2160-integrazione (2091–2160))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: a-2091-2160-integrazione (2091–2160)
+map: locations/maps/a-2091-2160-integrazione.png

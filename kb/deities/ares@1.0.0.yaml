@@ -1,0 +1,17 @@
+id: deity:ares@1.0.0
+status: canon
+name: Ares
+domains:
+- conflitto
+- coraggio
+- disciplina
+epicleses:
+- epiclesis:ares-enyalios@1.0.0
+summary: Dio del conflitto regolato e del coraggio disciplinato.
+policies:
+- Scontro senza regole aumenta M; il duello regolato può ridurla se evita la guerra
+  totale.
+anchors:
+- campi d'armi
+- palestre
+- agorà in giudizio

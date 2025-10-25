@@ -1,0 +1,15 @@
+id: epiclesis:athena-nike@1.0.0
+status: canon
+deity: deity:athena@1.0.0
+title: Níkē
+competence:
+- vittoria mirata
+- esiti di conflitto
+- strategia operativa
+ritual_best_practices:
+- offerta di ramoscello d'olivo presso spazio civico
+- dichiarazione pubblica di obiettivo limitato
+offers:
+- olivo
+- corone
+- resoconti veritieri post-azione

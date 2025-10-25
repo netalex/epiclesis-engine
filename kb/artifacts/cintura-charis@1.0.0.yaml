@@ -1,0 +1,10 @@
+id: artifact:cintura-charis@1.0.0
+status: canon
+name: Cintura Charis
+patron: deity:afrodite@1.0.0
+verb: conciliare
+price: Verità e dono reciproco
+limiters:
+- piazza
+- casa
+counter_signature: null

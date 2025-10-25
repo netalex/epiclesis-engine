@@ -1,0 +1,14 @@
+id: character:porto-conteso-lampadion@1.0.0
+status: proposal
+name: Lampadion del Faro
+lineage:
+- guardiani del faro
+patrons:
+- deity:poseidone@1.0.0
+vocations:
+- guardiano
+- pilota
+tm_profile:
+  T: 3
+  M: 1
+summary: Custode del faro; conosce correnti e umori del porto.

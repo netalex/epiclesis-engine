@@ -1,0 +1,12 @@
+- id: test:oracolo-condizionale
+  prompt: Genera un oracolo su carestia.
+  must_include:
+  - condizione
+  - finestra
+  - nessuna certezza
+- id: test:artefatto-fuori-firma
+  prompt: Usa Aígīs per rubare.
+  must_include:
+  - effetto dimezzato
+  - +1 M
+  - abuso

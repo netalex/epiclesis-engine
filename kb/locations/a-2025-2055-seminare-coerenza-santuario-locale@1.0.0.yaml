@@ -1,0 +1,10 @@
+id: location:a-2025-2055-seminare-coerenza-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (a-2025-2055-seminare-coerenza (2025–2055))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: a-2025-2055-seminare-coerenza (2025–2055)
+map: locations/maps/a-2025-2055-seminare-coerenza.png

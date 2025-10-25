@@ -1,0 +1,16 @@
+id: deity:poseidone@1.0.0
+status: canon
+name: Poseidone
+domains:
+- mare
+- confini
+- scosse
+epicleses:
+- epiclesis:poseidone-enosichthon@1.0.0
+summary: Dio del mare profondo, dei confini naturali e delle scosse telluriche.
+policies:
+- Ingiustizia territoriale → mozione del profondo (IE≥8).
+anchors:
+- promontori
+- sorgenti saline
+- fari

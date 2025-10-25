@@ -1,0 +1,16 @@
+{
+  "id": "domain:mare@1.0.0",
+  "status": "canon",
+  "name": "Mare/Profondo",
+  "summary": "Acque, scosse, confini naturali marini.",
+  "keywords": [
+    "mare",
+    "mare/profondo"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

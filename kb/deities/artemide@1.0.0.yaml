@@ -1,0 +1,20 @@
+id: deity:artemide@1.0.0
+status: canon
+name: Artemide
+domains:
+- selvatico
+- limite
+- caccia
+- passaggio
+epicleses:
+- epiclesis:artemide-agrotera@1.0.0
+- epiclesis:artemide-limnatis@1.0.0
+summary: Dea del selvatico e della misura nella caccia e nei passaggi liminari.
+policies:
+- Caccia senza misura -> miasma e sterilità del luogo finché non si fa restituzione.
+- 'Protegge le soglie naturali: travalicarle senza rito crea attrito collettivo.'
+anchors:
+- grotte
+- radure
+- sorgenti
+- soglie del bosco

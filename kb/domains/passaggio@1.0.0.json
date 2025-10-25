@@ -1,0 +1,16 @@
+{
+  "id": "domain:passaggio@1.0.0",
+  "status": "canon",
+  "name": "Passaggio/Scambio",
+  "summary": "Vie, tregue, commercio, diplomazia.",
+  "keywords": [
+    "passaggio",
+    "passaggio/scambio"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

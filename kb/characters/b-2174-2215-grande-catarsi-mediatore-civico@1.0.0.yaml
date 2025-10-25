@@ -1,0 +1,16 @@
+id: character:b-2174-2215-grande-catarsi-mediatore-civico@1.0.0
+status: proposal
+name: Mediatore Civico
+lineage: []
+patrons:
+- deity:athena@1.0.0
+- deity:ermes@1.0.0
+vocations:
+- mediatore
+- oratore
+tm_profile:
+  T: 3
+  M: 1
+summary: Figura chiave dell'era b-2174-2215-grande-catarsi (2174–2215), ponte tra
+  domini e comunità.
+era: b-2174-2215-grande-catarsi (2174–2215)

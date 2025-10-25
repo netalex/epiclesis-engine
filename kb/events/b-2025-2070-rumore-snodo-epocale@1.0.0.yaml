@@ -1,0 +1,12 @@
+id: event:b-2025-2070-rumore-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: 2047
+description: 'Snodo rappresentativo: Polarizzazione, istituzioni cieche, crisi a cascata.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: b-2025-2070-rumore (2025–2070)

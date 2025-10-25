@@ -1,0 +1,14 @@
+id: epiclesis:poseidone-asphaleios@1.0.0
+status: proposal
+deity: deity:poseidone@1.0.0
+title: Asphaleios
+competence:
+- stabilità
+- fondazioni in zona sismica
+ritual_best_practices:
+- posa di pietre di fondazione con voto di manutenzione
+- offerta di corde intrecciate (unità)
+offers:
+- pietre
+- metallo temprato
+- mappe batimetriche

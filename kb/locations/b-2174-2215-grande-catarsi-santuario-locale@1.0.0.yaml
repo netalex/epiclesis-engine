@@ -1,0 +1,10 @@
+id: location:b-2174-2215-grande-catarsi-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (b-2174-2215-grande-catarsi (2174–2215))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: b-2174-2215-grande-catarsi (2174–2215)
+map: locations/maps/b-2174-2215-grande-catarsi.png

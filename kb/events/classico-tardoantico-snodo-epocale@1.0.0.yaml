@@ -1,0 +1,13 @@
+id: event:classico-tardoantico-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: 50
+description: 'Snodo rappresentativo: Polis greca, Roma, imperi, grandi conversioni
+  e diritto.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: classico-tardoantico (-500–600)

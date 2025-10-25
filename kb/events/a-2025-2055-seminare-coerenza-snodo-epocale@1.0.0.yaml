@@ -1,0 +1,13 @@
+id: event:a-2025-2055-seminare-coerenza-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: 2040
+description: 'Snodo rappresentativo: Riti civici di verità, patti con costo reale,
+  santuari quotidiani.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: a-2025-2055-seminare-coerenza (2025–2055)

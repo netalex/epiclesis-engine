@@ -1,0 +1,10 @@
+id: artifact:fascia-nuziale@1.0.0
+status: canon
+name: Fascia Nuziale
+patron: deity:era@1.0.0
+verb: legare
+price: Impegno reale e testimoni
+limiters:
+- casa
+- santuario nuziale
+counter_signature: null

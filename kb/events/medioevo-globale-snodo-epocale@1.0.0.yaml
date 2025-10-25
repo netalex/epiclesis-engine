@@ -1,0 +1,13 @@
+id: event:medioevo-globale-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: 1000
+description: 'Snodo rappresentativo: Califfati, imperi asiatici, Europa feudale, università,
+  vie della seta.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: medioevo-globale (600–1400)

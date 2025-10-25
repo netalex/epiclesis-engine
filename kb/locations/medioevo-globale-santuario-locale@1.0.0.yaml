@@ -1,0 +1,10 @@
+id: location:medioevo-globale-santuario-locale@1.0.0
+status: proposal
+name: Santuario Locale (medioevo-globale (600–1400))
+type: sanctuary
+anchors: []
+tm_baseline:
+  T: 3
+  M: 2
+era: medioevo-globale (600–1400)
+map: locations/maps/medioevo-globale.png

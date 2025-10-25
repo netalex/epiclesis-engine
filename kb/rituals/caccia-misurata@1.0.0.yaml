@@ -1,0 +1,16 @@
+id: ritual:caccia-misurata@1.0.0
+status: canon
+target_epiclesis: epiclesis:artemide-agrotera@1.0.0
+goal: Garantire caccia sostenibile e mantenere la tīmē del selvatico
+anchorage: radura/grotta di clan
+offer: prima porzione restituita
+vow: tabù temporanei e quote
+expected_IE: 6
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+constraints:
+- Rispetto del confine del branco
+- No spreco
+artifacts_suggested:
+- artifact:fascia-nuziale@1.0.0

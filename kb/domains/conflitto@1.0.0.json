@@ -1,0 +1,16 @@
+{
+  "id": "domain:conflitto@1.0.0",
+  "status": "canon",
+  "name": "Conflitto",
+  "summary": "Scontro regolato, coraggio misurato, disciplina.",
+  "keywords": [
+    "conflitto",
+    "conflitto"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}

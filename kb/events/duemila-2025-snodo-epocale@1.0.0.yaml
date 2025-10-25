@@ -1,0 +1,12 @@
+id: event:duemila-2025-snodo-epocale@1.0.0
+status: proposal
+title: Snodo Epocale
+year: 2012
+description: 'Snodo rappresentativo: Pandemia, IA, shock geopolitici, soglia di biforcazione.'
+actors:
+- deity:athena@1.0.0
+- deity:apollo@1.0.0
+tm_delta:
+  dT: 1
+  dM: -1
+era: duemila-2025 (2000–2025)

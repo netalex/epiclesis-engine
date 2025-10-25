@@ -1,0 +1,53 @@
+id: contract:template@1.0.0
+status: draft
+title: TEMPLATE — Contratto Daimonico
+class: threshold|messenger|guardian|punitive
+domain:
+- passaggio
+- mare
+- polis
+- forma
+- misura
+- charis
+- conflitto
+- techne
+- selvatico
+- sovranita
+epiclesis_required:
+- epiclesis:...@1.0.0
+anchorage: luogo|soglia|oggetto
+witnesses:
+- magistrato
+- keryx
+- cittadini N
+duration: range temporale o condizionale
+price:
+- pegno reale
+- manutenzione
+- limite d’uso
+limiters:
+- divieti specifici
+- valori soglia
+obligations:
+  operator:
+  - azioni richieste
+  - verità pubblica
+  daimon:
+  - prestazioni entro dominio, cosa può/cosa non può
+breach_consequences:
+  minor:
+  - costo extra
+  - M+1
+  major:
+  - Nemesis
+  - guardiano punitivo
+  - ban civico
+lex_stygia: true
+tm_effect:
+  delta_T: 1
+  delta_M: -1
+risks:
+- saturazione dominio
+- conflitti di competenza
+sample_invocation: formula sintetica e gesti
+notes: commenti d’uso

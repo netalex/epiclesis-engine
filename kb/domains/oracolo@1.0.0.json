@@ -1,0 +1,16 @@
+{
+  "id": "domain:oracolo@1.0.0",
+  "status": "canon",
+  "name": "Oracolo",
+  "summary": "Canali d'informazione rituale, profezia condizionale.",
+  "keywords": [
+    "oracolo",
+    "oracolo"
+  ],
+  "invariants": [
+    "Nessuna violazione di Anánkē"
+  ],
+  "constraints": [
+    "Agire nel dominio; fuori dominio serve costo esplicito"
+  ]
+}
